@@ -7,7 +7,7 @@
       </a>
     </slot>
     <slot name="dropdown-menu">
-      <ul v-else class="dropdown-menu">
+      <ul class="dropdown-menu">
         <slot></slot>
       </ul>
     </slot>
